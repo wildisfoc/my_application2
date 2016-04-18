@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android-BasicTransition-master\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\changebounds_fadein_together.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android-BasicTransition-master\\Application\\src\\main\\res\\transition\\changebounds_fadein_together.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\android-BasicTransition-master\\Application\\build\\intermediates\\res\\merged\\debug\\transition\\scene3_transition_manager.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\android-BasicTransition-master\\Application\\src\\main\\res\\transition\\scene3_transition_manager.xml"
+    }
+]
